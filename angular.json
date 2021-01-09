@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "Kaara-Portfolio"
+  "defaultProject": "Kaara-Portfolio",
+  "cli": {
+    "analytics": "fd3ce0f3-35c5-4f1d-86b0-d2a6362a2293"
+  }
 }
